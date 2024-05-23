@@ -20,9 +20,12 @@ lado cliente al servidor.
 2. Implementa el mismo comportamiento de la demo, tal que cada vez que hagas clic en el botón __Get Joke!__ recupere un chiste aleatorio de la API https://api.chucknorris.io/jokes/random y lo muestre en el elemento del DOM adecuado
 
 ## Bonus
-
+<!-- 
 1. Crea un selector de manera que puedas escoger la categoría del chiste. Revisa la documentación oficial y descubrirás que pueden invocar a la API con un parámetro para que te de un _chiste_ de una categoría en concreto
-2. Investiga como podrias hacerlo para que, en el caso que ocurriera algún error en la llamada AJAX, se mostrará un mensaje error en el mismo contenedor; informando al usuario que algo ha ido mal. Puedes simular dicho comportamiento por ejemplo, cambiando la URL de la API a una dirección que no exista.
+2. Investiga como podrias hacerlo para que, en el caso que ocurriera algún error en la llamada AJAX, se mostrará un mensaje error en el mismo contenedor; informando al usuario que algo ha ido mal. Puedes simular dicho comportamiento por ejemplo, cambiando la URL de la API a una dirección que no exista. -->
+
+Crea un selector de manera que puedas escoger la categoría del chiste. Revisa la documentación oficial y descubrirás que pueden invocar a la API con un parámetro para que te de un chiste de una categoría en concreto. Haz clic aquí para ver una demo, pero revisa también como tienes que conformar la URL de la petición para obtener el chiste en función de la categoría.
+
 
 ## Otras soluciones
 
